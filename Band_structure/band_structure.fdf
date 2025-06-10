@@ -1,0 +1,37 @@
+# Simple fdf for electronic band structure calculation
+# https://docs.siesta-project.org/
+SystemLabel nameofyoursystem
+
+#input structure
+%include silicane_rela.fdf
+
+#General aspects Calculation (Basis Set and functional)
+PAO.BasisSize DZP
+PAO.EnergyShift     300 meV
+XC.functional     GGA 
+XC.authors        PBE 
+
+%block kgrid_Monkhorst_Pack
+  10  0  0  0.0
+   0 10  0  0.0
+   0  0  1  0.0
+%endblock kgrid_Monkhorst_Pack
+
+BandLinesScale          ReciprocalLatticeVectors
+%block BandLines
+   1 0.0000 0.0000 0.0000 Gamma
+  20 0.5000 0.0000 0.0000 M
+  20 0.3000 0.3000 0.3000 K
+  20 0.0000 0.0000 0.0000 Gamma
+
+%endblock BandLines
+
+SOC.Split.SR.SO        true
+
+TS.HS.Save true
+
+# General Output
+SaveHS true   #Save the Hamiltonian
+
+WriteCoorXmol          true         #Save the coordinates in .xyz format 
+                                    
