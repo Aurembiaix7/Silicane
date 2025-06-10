@@ -1,0 +1,936 @@
+Neighbors of:     1 Si at:  -0.0000  0.0000 -0.6993
+    3 H                     1.5071  Ang. Really at:  -0.0000  0.0000 -3.5472
+   22 Si                    2.3414  Ang. Really at:  -3.6354  2.0989  0.6993
+    2 Si                    2.3414  Ang. Really at:   3.6354  2.0989  0.6993
+  142 Si                    2.3414  Ang. Really at:  -0.0000 -4.1978  0.6993
+   24 H                     3.1598  Ang. Really at:  -3.6354  2.0989  3.5472
+    4 H                     3.1598  Ang. Really at:   3.6354  2.0989  3.5472
+  144 H                     3.1598  Ang. Really at:  -0.0000 -4.1978  3.5472
+Neighbors of:     2 Si at:   3.6354  2.0989  0.6993
+    4 H                     1.5071  Ang. Really at:   3.6354  2.0989  3.5472
+    5 Si                    2.3414  Ang. Really at:   7.2708  0.0000 -0.6993
+    1 Si                    2.3414  Ang. Really at:  -0.0000  0.0000 -0.6993
+   29 Si                    2.3414  Ang. Really at:   3.6354  6.2968 -0.6993
+    7 H                     3.1598  Ang. Really at:   7.2708  0.0000 -3.5472
+    3 H                     3.1598  Ang. Really at:  -0.0000  0.0000 -3.5472
+   31 H                     3.1598  Ang. Really at:   3.6354  6.2968 -3.5472
+Neighbors of:     3 H at:  -0.0000  0.0000 -3.5472
+    1 Si                    1.5071  Ang. Really at:  -0.0000  0.0000 -0.6993
+   22 Si                    3.1598  Ang. Really at:  -3.6354  2.0989  0.6993
+    2 Si                    3.1598  Ang. Really at:   3.6354  2.0989  0.6993
+  142 Si                    3.1598  Ang. Really at:  -0.0000 -4.1978  0.6993
+Neighbors of:     4 H at:   3.6354  2.0989  3.5472
+    2 Si                    1.5071  Ang. Really at:   3.6354  2.0989  0.6993
+    5 Si                    3.1598  Ang. Really at:   7.2708  0.0000 -0.6993
+    1 Si                    3.1598  Ang. Really at:  -0.0000  0.0000 -0.6993
+   29 Si                    3.1598  Ang. Really at:   3.6354  6.2968 -0.6993
+Neighbors of:     5 Si at:   7.2708  0.0000 -0.6993
+    7 H                     1.5071  Ang. Really at:   7.2708  0.0000 -3.5472
+    2 Si                    2.3414  Ang. Really at:   3.6354  2.0989  0.6993
+    6 Si                    2.3414  Ang. Really at:  10.9062  2.0989  0.6993
+  122 Si                    2.3414  Ang. Really at:   7.2708 -4.1978  0.6993
+    4 H                     3.1598  Ang. Really at:   3.6354  2.0989  3.5472
+    8 H                     3.1598  Ang. Really at:  10.9062  2.0989  3.5472
+  124 H                     3.1598  Ang. Really at:   7.2708 -4.1978  3.5472
+Neighbors of:     6 Si at:  10.9062  2.0989  0.6993
+    8 H                     1.5071  Ang. Really at:  10.9062  2.0989  3.5472
+    9 Si                    2.3414  Ang. Really at:  14.5416  0.0001 -0.6992
+    5 Si                    2.3414  Ang. Really at:   7.2708  0.0000 -0.6993
+   33 Si                    2.3414  Ang. Really at:  10.9062  6.2968 -0.6993
+   11 H                     3.1598  Ang. Really at:  14.5416  0.0001 -3.5472
+    7 H                     3.1598  Ang. Really at:   7.2708  0.0000 -3.5472
+   35 H                     3.1598  Ang. Really at:  10.9062  6.2968 -3.5472
+Neighbors of:     7 H at:   7.2708  0.0000 -3.5472
+    5 Si                    1.5071  Ang. Really at:   7.2708  0.0000 -0.6993
+    2 Si                    3.1598  Ang. Really at:   3.6354  2.0989  0.6993
+    6 Si                    3.1598  Ang. Really at:  10.9062  2.0989  0.6993
+  122 Si                    3.1598  Ang. Really at:   7.2708 -4.1978  0.6993
+Neighbors of:     8 H at:  10.9062  2.0989  3.5472
+    6 Si                    1.5071  Ang. Really at:  10.9062  2.0989  0.6993
+    9 Si                    3.1598  Ang. Really at:  14.5416  0.0001 -0.6992
+    5 Si                    3.1598  Ang. Really at:   7.2708  0.0000 -0.6993
+   33 Si                    3.1598  Ang. Really at:  10.9062  6.2968 -0.6993
+Neighbors of:     9 Si at:  14.5416  0.0001 -0.6992
+   11 H                     1.5071  Ang. Really at:  14.5416  0.0001 -3.5472
+    6 Si                    2.3414  Ang. Really at:  10.9062  2.0989  0.6993
+   10 Si                    2.3414  Ang. Really at:  18.1771  2.0990  0.6993
+  126 Si                    2.3414  Ang. Really at:  14.5416 -4.1978  0.6993
+    8 H                     3.1598  Ang. Really at:  10.9062  2.0989  3.5472
+   12 H                     3.1598  Ang. Really at:  18.1771  2.0990  3.5473
+  128 H                     3.1598  Ang. Really at:  14.5416 -4.1978  3.5473
+Neighbors of:    10 Si at:  18.1771  2.0990  0.6993
+   12 H                     1.5071  Ang. Really at:  18.1771  2.0990  3.5473
+   13 Si                    2.3414  Ang. Really at:  21.8124  0.0001 -0.6992
+    9 Si                    2.3414  Ang. Really at:  14.5416  0.0001 -0.6992
+   37 Si                    2.3414  Ang. Really at:  18.1771  6.2968 -0.6992
+   15 H                     3.1598  Ang. Really at:  21.8124  0.0001 -3.5472
+   11 H                     3.1598  Ang. Really at:  14.5416  0.0001 -3.5472
+   39 H                     3.1598  Ang. Really at:  18.1771  6.2968 -3.5472
+Neighbors of:    11 H at:  14.5416  0.0001 -3.5472
+    9 Si                    1.5071  Ang. Really at:  14.5416  0.0001 -0.6992
+    6 Si                    3.1598  Ang. Really at:  10.9062  2.0989  0.6993
+   10 Si                    3.1598  Ang. Really at:  18.1771  2.0990  0.6993
+  126 Si                    3.1598  Ang. Really at:  14.5416 -4.1978  0.6993
+Neighbors of:    12 H at:  18.1771  2.0990  3.5473
+   10 Si                    1.5071  Ang. Really at:  18.1771  2.0990  0.6993
+   13 Si                    3.1598  Ang. Really at:  21.8124  0.0001 -0.6992
+    9 Si                    3.1598  Ang. Really at:  14.5416  0.0001 -0.6992
+   37 Si                    3.1598  Ang. Really at:  18.1771  6.2968 -0.6992
+Neighbors of:    13 Si at:  21.8124  0.0001 -0.6992
+   15 H                     1.5071  Ang. Really at:  21.8124  0.0001 -3.5472
+   10 Si                    2.3414  Ang. Really at:  18.1771  2.0990  0.6993
+   14 Si                    2.3414  Ang. Really at:  25.4479  2.0990  0.6994
+  130 Si                    2.3414  Ang. Really at:  21.8124 -4.1978  0.6994
+   12 H                     3.1598  Ang. Really at:  18.1771  2.0990  3.5473
+   16 H                     3.1598  Ang. Really at:  25.4479  2.0990  3.5473
+  132 H                     3.1598  Ang. Really at:  21.8124 -4.1978  3.5473
+Neighbors of:    14 Si at:  25.4479  2.0990  0.6994
+   16 H                     1.5071  Ang. Really at:  25.4479  2.0990  3.5473
+   17 Si                    2.3414  Ang. Really at:  29.0833  0.0001 -0.6992
+   13 Si                    2.3414  Ang. Really at:  21.8124  0.0001 -0.6992
+   41 Si                    2.3414  Ang. Really at:  25.4479  6.2968 -0.6992
+   19 H                     3.1598  Ang. Really at:  29.0833  0.0001 -3.5471
+   15 H                     3.1598  Ang. Really at:  21.8124  0.0001 -3.5472
+   43 H                     3.1598  Ang. Really at:  25.4479  6.2968 -3.5472
+Neighbors of:    15 H at:  21.8124  0.0001 -3.5472
+   13 Si                    1.5071  Ang. Really at:  21.8124  0.0001 -0.6992
+   10 Si                    3.1598  Ang. Really at:  18.1771  2.0990  0.6993
+   14 Si                    3.1598  Ang. Really at:  25.4479  2.0990  0.6994
+  130 Si                    3.1598  Ang. Really at:  21.8124 -4.1978  0.6994
+Neighbors of:    16 H at:  25.4479  2.0990  3.5473
+   14 Si                    1.5071  Ang. Really at:  25.4479  2.0990  0.6994
+   17 Si                    3.1598  Ang. Really at:  29.0833  0.0001 -0.6992
+   13 Si                    3.1598  Ang. Really at:  21.8124  0.0001 -0.6992
+   41 Si                    3.1598  Ang. Really at:  25.4479  6.2968 -0.6992
+Neighbors of:    17 Si at:  29.0833  0.0001 -0.6992
+   19 H                     1.5071  Ang. Really at:  29.0833  0.0001 -3.5471
+   14 Si                    2.3414  Ang. Really at:  25.4479  2.0990  0.6994
+   18 Si                    2.3414  Ang. Really at:  32.7187  2.0990  0.6994
+  134 Si                    2.3414  Ang. Really at:  29.0833 -4.1977  0.6994
+   16 H                     3.1598  Ang. Really at:  25.4479  2.0990  3.5473
+   20 H                     3.1598  Ang. Really at:  32.7187  2.0990  3.5473
+  136 H                     3.1598  Ang. Really at:  29.0833 -4.1977  3.5473
+Neighbors of:    18 Si at:  32.7187  2.0990  0.6994
+   20 H                     1.5071  Ang. Really at:  32.7187  2.0990  3.5473
+   21 Si                    2.3414  Ang. Really at:  36.3541  0.0001 -0.6992
+   17 Si                    2.3414  Ang. Really at:  29.0833  0.0001 -0.6992
+   45 Si                    2.3414  Ang. Really at:  32.7187  6.2969 -0.6992
+   23 H                     3.1598  Ang. Really at:  36.3541  0.0001 -3.5471
+   19 H                     3.1598  Ang. Really at:  29.0833  0.0001 -3.5471
+   47 H                     3.1598  Ang. Really at:  32.7187  6.2969 -3.5471
+Neighbors of:    19 H at:  29.0833  0.0001 -3.5471
+   17 Si                    1.5071  Ang. Really at:  29.0833  0.0001 -0.6992
+   14 Si                    3.1598  Ang. Really at:  25.4479  2.0990  0.6994
+   18 Si                    3.1598  Ang. Really at:  32.7187  2.0990  0.6994
+  134 Si                    3.1598  Ang. Really at:  29.0833 -4.1977  0.6994
+Neighbors of:    20 H at:  32.7187  2.0990  3.5473
+   18 Si                    1.5071  Ang. Really at:  32.7187  2.0990  0.6994
+   21 Si                    3.1598  Ang. Really at:  36.3541  0.0001 -0.6992
+   17 Si                    3.1598  Ang. Really at:  29.0833  0.0001 -0.6992
+   45 Si                    3.1598  Ang. Really at:  32.7187  6.2969 -0.6992
+Neighbors of:    21 Si at:  36.3541  0.0001 -0.6992
+   23 H                     1.5071  Ang. Really at:  36.3541  0.0001 -3.5471
+   18 Si                    2.3414  Ang. Really at:  32.7187  2.0990  0.6994
+   22 Si                    2.3414  Ang. Really at:  39.9895  2.0990  0.6994
+  138 Si                    2.3414  Ang. Really at:  36.3541 -4.1977  0.6994
+   20 H                     3.1598  Ang. Really at:  32.7187  2.0990  3.5473
+   24 H                     3.1598  Ang. Really at:  39.9895  2.0990  3.5473
+  140 H                     3.1598  Ang. Really at:  36.3541 -4.1977  3.5473
+Neighbors of:    22 Si at:  39.9895  2.0990  0.6994
+   24 H                     1.5071  Ang. Really at:  39.9895  2.0990  3.5473
+    1 Si                    2.3414  Ang. Really at:  43.6249  0.0002 -0.6991
+   21 Si                    2.3414  Ang. Really at:  36.3541  0.0001 -0.6992
+   25 Si                    2.3414  Ang. Really at:  39.9895  6.2969 -0.6992
+    3 H                     3.1598  Ang. Really at:  43.6249  0.0002 -3.5471
+   23 H                     3.1598  Ang. Really at:  36.3541  0.0001 -3.5471
+   27 H                     3.1598  Ang. Really at:  39.9895  6.2969 -3.5471
+Neighbors of:    23 H at:  36.3541  0.0001 -3.5471
+   21 Si                    1.5071  Ang. Really at:  36.3541  0.0001 -0.6992
+   18 Si                    3.1598  Ang. Really at:  32.7187  2.0990  0.6994
+   22 Si                    3.1598  Ang. Really at:  39.9895  2.0990  0.6994
+  138 Si                    3.1598  Ang. Really at:  36.3541 -4.1977  0.6994
+Neighbors of:    24 H at:  39.9895  2.0990  3.5473
+   22 Si                    1.5071  Ang. Really at:  39.9895  2.0990  0.6994
+    1 Si                    3.1598  Ang. Really at:  43.6249  0.0002 -0.6991
+   21 Si                    3.1598  Ang. Really at:  36.3541  0.0001 -0.6992
+   25 Si                    3.1598  Ang. Really at:  39.9895  6.2969 -0.6992
+Neighbors of:    25 Si at:  -3.6354  6.2967 -0.6993
+   27 H                     1.5071  Ang. Really at:  -3.6354  6.2967 -3.5472
+   46 Si                    2.3414  Ang. Really at:  -7.2708  8.3956  0.6992
+   26 Si                    2.3414  Ang. Really at:   0.0000  8.3956  0.6993
+   22 Si                    2.3414  Ang. Really at:  -3.6354  2.0989  0.6993
+   48 H                     3.1598  Ang. Really at:  -7.2708  8.3956  3.5472
+   28 H                     3.1598  Ang. Really at:   0.0000  8.3956  3.5472
+   24 H                     3.1598  Ang. Really at:  -3.6354  2.0989  3.5472
+Neighbors of:    26 Si at:   0.0000  8.3956  0.6993
+   28 H                     1.5071  Ang. Really at:   0.0000  8.3956  3.5472
+   29 Si                    2.3414  Ang. Really at:   3.6354  6.2968 -0.6993
+   25 Si                    2.3414  Ang. Really at:  -3.6354  6.2967 -0.6993
+   53 Si                    2.3414  Ang. Really at:   0.0000 12.5935 -0.6993
+   31 H                     3.1598  Ang. Really at:   3.6354  6.2968 -3.5472
+   27 H                     3.1598  Ang. Really at:  -3.6354  6.2967 -3.5472
+   55 H                     3.1598  Ang. Really at:   0.0000 12.5935 -3.5472
+Neighbors of:    27 H at:  -3.6354  6.2967 -3.5472
+   25 Si                    1.5071  Ang. Really at:  -3.6354  6.2967 -0.6993
+   46 Si                    3.1598  Ang. Really at:  -7.2708  8.3956  0.6992
+   26 Si                    3.1598  Ang. Really at:   0.0000  8.3956  0.6993
+   22 Si                    3.1598  Ang. Really at:  -3.6354  2.0989  0.6993
+Neighbors of:    28 H at:   0.0000  8.3956  3.5472
+   26 Si                    1.5071  Ang. Really at:   0.0000  8.3956  0.6993
+   29 Si                    3.1598  Ang. Really at:   3.6354  6.2968 -0.6993
+   25 Si                    3.1598  Ang. Really at:  -3.6354  6.2967 -0.6993
+   53 Si                    3.1598  Ang. Really at:   0.0000 12.5935 -0.6993
+Neighbors of:    29 Si at:   3.6354  6.2968 -0.6993
+   31 H                     1.5071  Ang. Really at:   3.6354  6.2968 -3.5472
+   26 Si                    2.3414  Ang. Really at:   0.0000  8.3956  0.6993
+   30 Si                    2.3414  Ang. Really at:   7.2709  8.3957  0.6993
+    2 Si                    2.3414  Ang. Really at:   3.6354  2.0989  0.6993
+   28 H                     3.1598  Ang. Really at:   0.0000  8.3956  3.5472
+   32 H                     3.1598  Ang. Really at:   7.2709  8.3957  3.5472
+    4 H                     3.1598  Ang. Really at:   3.6354  2.0989  3.5472
+Neighbors of:    30 Si at:   7.2709  8.3957  0.6993
+   32 H                     1.5071  Ang. Really at:   7.2709  8.3957  3.5472
+   33 Si                    2.3414  Ang. Really at:  10.9062  6.2968 -0.6993
+   29 Si                    2.3414  Ang. Really at:   3.6354  6.2968 -0.6993
+   57 Si                    2.3414  Ang. Really at:   7.2708 12.5935 -0.6993
+   35 H                     3.1598  Ang. Really at:  10.9062  6.2968 -3.5472
+   31 H                     3.1598  Ang. Really at:   3.6354  6.2968 -3.5472
+   59 H                     3.1598  Ang. Really at:   7.2709 12.5935 -3.5472
+Neighbors of:    31 H at:   3.6354  6.2968 -3.5472
+   29 Si                    1.5071  Ang. Really at:   3.6354  6.2968 -0.6993
+   26 Si                    3.1598  Ang. Really at:   0.0000  8.3956  0.6993
+   30 Si                    3.1598  Ang. Really at:   7.2709  8.3957  0.6993
+    2 Si                    3.1598  Ang. Really at:   3.6354  2.0989  0.6993
+Neighbors of:    32 H at:   7.2709  8.3957  3.5472
+   30 Si                    1.5071  Ang. Really at:   7.2709  8.3957  0.6993
+   33 Si                    3.1598  Ang. Really at:  10.9062  6.2968 -0.6993
+   29 Si                    3.1598  Ang. Really at:   3.6354  6.2968 -0.6993
+   57 Si                    3.1598  Ang. Really at:   7.2708 12.5935 -0.6993
+Neighbors of:    33 Si at:  10.9062  6.2968 -0.6993
+   35 H                     1.5071  Ang. Really at:  10.9062  6.2968 -3.5472
+   30 Si                    2.3414  Ang. Really at:   7.2709  8.3957  0.6993
+   34 Si                    2.3414  Ang. Really at:  14.5417  8.3957  0.6993
+    6 Si                    2.3414  Ang. Really at:  10.9062  2.0989  0.6993
+   32 H                     3.1598  Ang. Really at:   7.2709  8.3957  3.5472
+   36 H                     3.1598  Ang. Really at:  14.5417  8.3957  3.5472
+    8 H                     3.1598  Ang. Really at:  10.9062  2.0989  3.5472
+Neighbors of:    34 Si at:  14.5417  8.3957  0.6993
+   36 H                     1.5071  Ang. Really at:  14.5417  8.3957  3.5472
+   37 Si                    2.3414  Ang. Really at:  18.1771  6.2968 -0.6992
+   33 Si                    2.3414  Ang. Really at:  10.9062  6.2968 -0.6993
+   61 Si                    2.3414  Ang. Really at:  14.5417 12.5935 -0.6993
+   39 H                     3.1598  Ang. Really at:  18.1771  6.2968 -3.5472
+   35 H                     3.1598  Ang. Really at:  10.9062  6.2968 -3.5472
+   63 H                     3.1598  Ang. Really at:  14.5417 12.5935 -3.5472
+Neighbors of:    35 H at:  10.9062  6.2968 -3.5472
+   33 Si                    1.5071  Ang. Really at:  10.9062  6.2968 -0.6993
+   30 Si                    3.1598  Ang. Really at:   7.2709  8.3957  0.6993
+   34 Si                    3.1598  Ang. Really at:  14.5417  8.3957  0.6993
+    6 Si                    3.1598  Ang. Really at:  10.9062  2.0989  0.6993
+Neighbors of:    36 H at:  14.5417  8.3957  3.5472
+   34 Si                    1.5071  Ang. Really at:  14.5417  8.3957  0.6993
+   37 Si                    3.1598  Ang. Really at:  18.1771  6.2968 -0.6992
+   33 Si                    3.1598  Ang. Really at:  10.9062  6.2968 -0.6993
+   61 Si                    3.1598  Ang. Really at:  14.5417 12.5935 -0.6993
+Neighbors of:    37 Si at:  18.1771  6.2968 -0.6992
+   39 H                     1.5071  Ang. Really at:  18.1771  6.2968 -3.5472
+   34 Si                    2.3414  Ang. Really at:  14.5417  8.3957  0.6993
+   38 Si                    2.3414  Ang. Really at:  21.8125  8.3957  0.6993
+   10 Si                    2.3414  Ang. Really at:  18.1771  2.0990  0.6993
+   36 H                     3.1598  Ang. Really at:  14.5417  8.3957  3.5472
+   40 H                     3.1598  Ang. Really at:  21.8125  8.3957  3.5473
+   12 H                     3.1598  Ang. Really at:  18.1771  2.0990  3.5473
+Neighbors of:    38 Si at:  21.8125  8.3957  0.6993
+   40 H                     1.5071  Ang. Really at:  21.8125  8.3957  3.5473
+   41 Si                    2.3414  Ang. Really at:  25.4479  6.2968 -0.6992
+   37 Si                    2.3414  Ang. Really at:  18.1771  6.2968 -0.6992
+   65 Si                    2.3414  Ang. Really at:  21.8125 12.5936 -0.6992
+   43 H                     3.1598  Ang. Really at:  25.4479  6.2968 -3.5472
+   39 H                     3.1598  Ang. Really at:  18.1771  6.2968 -3.5472
+   67 H                     3.1598  Ang. Really at:  21.8125 12.5936 -3.5472
+Neighbors of:    39 H at:  18.1771  6.2968 -3.5472
+   37 Si                    1.5071  Ang. Really at:  18.1771  6.2968 -0.6992
+   34 Si                    3.1598  Ang. Really at:  14.5417  8.3957  0.6993
+   38 Si                    3.1598  Ang. Really at:  21.8125  8.3957  0.6993
+   10 Si                    3.1598  Ang. Really at:  18.1771  2.0990  0.6993
+Neighbors of:    40 H at:  21.8125  8.3957  3.5473
+   38 Si                    1.5071  Ang. Really at:  21.8125  8.3957  0.6993
+   41 Si                    3.1598  Ang. Really at:  25.4479  6.2968 -0.6992
+   37 Si                    3.1598  Ang. Really at:  18.1771  6.2968 -0.6992
+   65 Si                    3.1598  Ang. Really at:  21.8125 12.5936 -0.6992
+Neighbors of:    41 Si at:  25.4479  6.2968 -0.6992
+   43 H                     1.5071  Ang. Really at:  25.4479  6.2968 -3.5472
+   38 Si                    2.3414  Ang. Really at:  21.8125  8.3957  0.6993
+   42 Si                    2.3414  Ang. Really at:  29.0833  8.3957  0.6994
+   14 Si                    2.3414  Ang. Really at:  25.4479  2.0990  0.6994
+   40 H                     3.1598  Ang. Really at:  21.8125  8.3957  3.5473
+   44 H                     3.1598  Ang. Really at:  29.0833  8.3957  3.5473
+   16 H                     3.1598  Ang. Really at:  25.4479  2.0990  3.5473
+Neighbors of:    42 Si at:  29.0833  8.3957  0.6994
+   44 H                     1.5071  Ang. Really at:  29.0833  8.3957  3.5473
+   45 Si                    2.3414  Ang. Really at:  32.7187  6.2969 -0.6992
+   41 Si                    2.3414  Ang. Really at:  25.4479  6.2968 -0.6992
+   69 Si                    2.3414  Ang. Really at:  29.0833 12.5936 -0.6992
+   47 H                     3.1598  Ang. Really at:  32.7187  6.2969 -3.5471
+   43 H                     3.1598  Ang. Really at:  25.4479  6.2968 -3.5472
+   71 H                     3.1598  Ang. Really at:  29.0833 12.5936 -3.5472
+Neighbors of:    43 H at:  25.4479  6.2968 -3.5472
+   41 Si                    1.5071  Ang. Really at:  25.4479  6.2968 -0.6992
+   38 Si                    3.1598  Ang. Really at:  21.8125  8.3957  0.6993
+   42 Si                    3.1598  Ang. Really at:  29.0833  8.3957  0.6994
+   14 Si                    3.1598  Ang. Really at:  25.4479  2.0990  0.6994
+Neighbors of:    44 H at:  29.0833  8.3957  3.5473
+   42 Si                    1.5071  Ang. Really at:  29.0833  8.3957  0.6994
+   45 Si                    3.1598  Ang. Really at:  32.7187  6.2969 -0.6992
+   41 Si                    3.1598  Ang. Really at:  25.4479  6.2968 -0.6992
+   69 Si                    3.1598  Ang. Really at:  29.0833 12.5936 -0.6992
+Neighbors of:    45 Si at:  32.7187  6.2969 -0.6992
+   47 H                     1.5071  Ang. Really at:  32.7187  6.2969 -3.5471
+   42 Si                    2.3414  Ang. Really at:  29.0833  8.3957  0.6994
+   46 Si                    2.3414  Ang. Really at:  36.3541  8.3958  0.6994
+   18 Si                    2.3414  Ang. Really at:  32.7187  2.0990  0.6994
+   44 H                     3.1598  Ang. Really at:  29.0833  8.3957  3.5473
+   48 H                     3.1598  Ang. Really at:  36.3541  8.3958  3.5473
+   20 H                     3.1598  Ang. Really at:  32.7187  2.0990  3.5473
+Neighbors of:    46 Si at:  36.3541  8.3958  0.6994
+   48 H                     1.5071  Ang. Really at:  36.3541  8.3958  3.5473
+   25 Si                    2.3414  Ang. Really at:  39.9895  6.2969 -0.6992
+   45 Si                    2.3414  Ang. Really at:  32.7187  6.2969 -0.6992
+   49 Si                    2.3414  Ang. Really at:  36.3541 12.5936 -0.6992
+   27 H                     3.1598  Ang. Really at:  39.9895  6.2969 -3.5471
+   47 H                     3.1598  Ang. Really at:  32.7187  6.2969 -3.5471
+   51 H                     3.1598  Ang. Really at:  36.3541 12.5936 -3.5471
+Neighbors of:    47 H at:  32.7187  6.2969 -3.5471
+   45 Si                    1.5071  Ang. Really at:  32.7187  6.2969 -0.6992
+   42 Si                    3.1598  Ang. Really at:  29.0833  8.3957  0.6994
+   46 Si                    3.1598  Ang. Really at:  36.3541  8.3958  0.6994
+   18 Si                    3.1598  Ang. Really at:  32.7187  2.0990  0.6994
+Neighbors of:    48 H at:  36.3541  8.3958  3.5473
+   46 Si                    1.5071  Ang. Really at:  36.3541  8.3958  0.6994
+   25 Si                    3.1598  Ang. Really at:  39.9895  6.2969 -0.6992
+   45 Si                    3.1598  Ang. Really at:  32.7187  6.2969 -0.6992
+   49 Si                    3.1598  Ang. Really at:  36.3541 12.5936 -0.6992
+Neighbors of:    49 Si at:  -7.2708 12.5935 -0.6993
+   51 H                     1.5071  Ang. Really at:  -7.2708 12.5935 -3.5473
+   70 Si                    2.3414  Ang. Really at: -10.9062 14.6923  0.6992
+   50 Si                    2.3414  Ang. Really at:  -3.6353 14.6924  0.6992
+   46 Si                    2.3414  Ang. Really at:  -7.2708  8.3956  0.6992
+   72 H                     3.1598  Ang. Really at: -10.9062 14.6923  3.5472
+   52 H                     3.1598  Ang. Really at:  -3.6353 14.6924  3.5472
+   48 H                     3.1598  Ang. Really at:  -7.2708  8.3956  3.5472
+Neighbors of:    50 Si at:  -3.6353 14.6924  0.6992
+   52 H                     1.5071  Ang. Really at:  -3.6353 14.6924  3.5472
+   53 Si                    2.3414  Ang. Really at:   0.0000 12.5935 -0.6993
+   49 Si                    2.3414  Ang. Really at:  -7.2708 12.5935 -0.6993
+   77 Si                    2.3414  Ang. Really at:  -3.6354 18.8902 -0.6993
+   55 H                     3.1598  Ang. Really at:   0.0000 12.5935 -3.5472
+   51 H                     3.1598  Ang. Really at:  -7.2708 12.5935 -3.5473
+   79 H                     3.1598  Ang. Really at:  -3.6354 18.8902 -3.5473
+Neighbors of:    51 H at:  -7.2708 12.5935 -3.5473
+   49 Si                    1.5071  Ang. Really at:  -7.2708 12.5935 -0.6993
+   70 Si                    3.1598  Ang. Really at: -10.9062 14.6923  0.6992
+   50 Si                    3.1598  Ang. Really at:  -3.6353 14.6924  0.6992
+   46 Si                    3.1598  Ang. Really at:  -7.2708  8.3956  0.6992
+Neighbors of:    52 H at:  -3.6353 14.6924  3.5472
+   50 Si                    1.5071  Ang. Really at:  -3.6353 14.6924  0.6992
+   53 Si                    3.1598  Ang. Really at:   0.0000 12.5935 -0.6993
+   49 Si                    3.1598  Ang. Really at:  -7.2708 12.5935 -0.6993
+   77 Si                    3.1598  Ang. Really at:  -3.6354 18.8902 -0.6993
+Neighbors of:    53 Si at:   0.0000 12.5935 -0.6993
+   55 H                     1.5071  Ang. Really at:   0.0000 12.5935 -3.5472
+   50 Si                    2.3414  Ang. Really at:  -3.6353 14.6924  0.6992
+   54 Si                    2.3414  Ang. Really at:   3.6355 14.6924  0.6993
+   26 Si                    2.3414  Ang. Really at:   0.0000  8.3956  0.6993
+   52 H                     3.1598  Ang. Really at:  -3.6353 14.6924  3.5472
+   56 H                     3.1598  Ang. Really at:   3.6355 14.6924  3.5472
+   28 H                     3.1598  Ang. Really at:   0.0000  8.3956  3.5472
+Neighbors of:    54 Si at:   3.6355 14.6924  0.6993
+   56 H                     1.5071  Ang. Really at:   3.6355 14.6924  3.5472
+   57 Si                    2.3414  Ang. Really at:   7.2708 12.5935 -0.6993
+   53 Si                    2.3414  Ang. Really at:   0.0000 12.5935 -0.6993
+   81 Si                    2.3414  Ang. Really at:   3.6355 18.8902 -0.6993
+   59 H                     3.1598  Ang. Really at:   7.2709 12.5935 -3.5472
+   55 H                     3.1598  Ang. Really at:   0.0000 12.5935 -3.5472
+   83 H                     3.1598  Ang. Really at:   3.6355 18.8902 -3.5472
+Neighbors of:    55 H at:   0.0000 12.5935 -3.5472
+   53 Si                    1.5071  Ang. Really at:   0.0000 12.5935 -0.6993
+   50 Si                    3.1598  Ang. Really at:  -3.6353 14.6924  0.6992
+   54 Si                    3.1598  Ang. Really at:   3.6355 14.6924  0.6993
+   26 Si                    3.1598  Ang. Really at:   0.0000  8.3956  0.6993
+Neighbors of:    56 H at:   3.6355 14.6924  3.5472
+   54 Si                    1.5071  Ang. Really at:   3.6355 14.6924  0.6993
+   57 Si                    3.1598  Ang. Really at:   7.2708 12.5935 -0.6993
+   53 Si                    3.1598  Ang. Really at:   0.0000 12.5935 -0.6993
+   81 Si                    3.1598  Ang. Really at:   3.6355 18.8902 -0.6993
+Neighbors of:    57 Si at:   7.2708 12.5935 -0.6993
+   59 H                     1.5071  Ang. Really at:   7.2709 12.5935 -3.5472
+   54 Si                    2.3414  Ang. Really at:   3.6355 14.6924  0.6993
+   58 Si                    2.3414  Ang. Really at:  10.9063 14.6924  0.6993
+   30 Si                    2.3414  Ang. Really at:   7.2709  8.3957  0.6993
+   56 H                     3.1598  Ang. Really at:   3.6355 14.6924  3.5472
+   60 H                     3.1598  Ang. Really at:  10.9063 14.6924  3.5472
+   32 H                     3.1598  Ang. Really at:   7.2709  8.3957  3.5472
+Neighbors of:    58 Si at:  10.9063 14.6924  0.6993
+   60 H                     1.5071  Ang. Really at:  10.9063 14.6924  3.5472
+   61 Si                    2.3414  Ang. Really at:  14.5417 12.5935 -0.6993
+   57 Si                    2.3414  Ang. Really at:   7.2708 12.5935 -0.6993
+   85 Si                    2.3414  Ang. Really at:  10.9063 18.8903 -0.6993
+   63 H                     3.1598  Ang. Really at:  14.5417 12.5935 -3.5472
+   59 H                     3.1598  Ang. Really at:   7.2709 12.5935 -3.5472
+   87 H                     3.1598  Ang. Really at:  10.9063 18.8903 -3.5472
+Neighbors of:    59 H at:   7.2709 12.5935 -3.5472
+   57 Si                    1.5071  Ang. Really at:   7.2708 12.5935 -0.6993
+   54 Si                    3.1598  Ang. Really at:   3.6355 14.6924  0.6993
+   58 Si                    3.1598  Ang. Really at:  10.9063 14.6924  0.6993
+   30 Si                    3.1598  Ang. Really at:   7.2709  8.3957  0.6993
+Neighbors of:    60 H at:  10.9063 14.6924  3.5472
+   58 Si                    1.5071  Ang. Really at:  10.9063 14.6924  0.6993
+   61 Si                    3.1598  Ang. Really at:  14.5417 12.5935 -0.6993
+   57 Si                    3.1598  Ang. Really at:   7.2708 12.5935 -0.6993
+   85 Si                    3.1598  Ang. Really at:  10.9063 18.8903 -0.6993
+Neighbors of:    61 Si at:  14.5417 12.5935 -0.6993
+   63 H                     1.5071  Ang. Really at:  14.5417 12.5935 -3.5472
+   58 Si                    2.3414  Ang. Really at:  10.9063 14.6924  0.6993
+   62 Si                    2.3414  Ang. Really at:  18.1771 14.6924  0.6993
+   34 Si                    2.3414  Ang. Really at:  14.5417  8.3957  0.6993
+   60 H                     3.1598  Ang. Really at:  10.9063 14.6924  3.5472
+   64 H                     3.1598  Ang. Really at:  18.1771 14.6924  3.5472
+   36 H                     3.1598  Ang. Really at:  14.5417  8.3957  3.5472
+Neighbors of:    62 Si at:  18.1771 14.6924  0.6993
+   64 H                     1.5071  Ang. Really at:  18.1771 14.6924  3.5472
+   65 Si                    2.3414  Ang. Really at:  21.8125 12.5936 -0.6992
+   61 Si                    2.3414  Ang. Really at:  14.5417 12.5935 -0.6993
+   89 Si                    2.3414  Ang. Really at:  18.1771 18.8903 -0.6993
+   67 H                     3.1598  Ang. Really at:  21.8125 12.5936 -3.5472
+   63 H                     3.1598  Ang. Really at:  14.5417 12.5935 -3.5472
+   91 H                     3.1598  Ang. Really at:  18.1771 18.8903 -3.5472
+Neighbors of:    63 H at:  14.5417 12.5935 -3.5472
+   61 Si                    1.5071  Ang. Really at:  14.5417 12.5935 -0.6993
+   58 Si                    3.1598  Ang. Really at:  10.9063 14.6924  0.6993
+   62 Si                    3.1598  Ang. Really at:  18.1771 14.6924  0.6993
+   34 Si                    3.1598  Ang. Really at:  14.5417  8.3957  0.6993
+Neighbors of:    64 H at:  18.1771 14.6924  3.5472
+   62 Si                    1.5071  Ang. Really at:  18.1771 14.6924  0.6993
+   65 Si                    3.1598  Ang. Really at:  21.8125 12.5936 -0.6992
+   61 Si                    3.1598  Ang. Really at:  14.5417 12.5935 -0.6993
+   89 Si                    3.1598  Ang. Really at:  18.1771 18.8903 -0.6993
+Neighbors of:    65 Si at:  21.8125 12.5936 -0.6992
+   67 H                     1.5071  Ang. Really at:  21.8125 12.5936 -3.5472
+   62 Si                    2.3414  Ang. Really at:  18.1771 14.6924  0.6993
+   66 Si                    2.3414  Ang. Really at:  25.4479 14.6925  0.6993
+   38 Si                    2.3414  Ang. Really at:  21.8125  8.3957  0.6993
+   64 H                     3.1598  Ang. Really at:  18.1771 14.6924  3.5472
+   68 H                     3.1598  Ang. Really at:  25.4479 14.6925  3.5473
+   40 H                     3.1598  Ang. Really at:  21.8125  8.3957  3.5473
+Neighbors of:    66 Si at:  25.4479 14.6925  0.6993
+   68 H                     1.5071  Ang. Really at:  25.4479 14.6925  3.5473
+   69 Si                    2.3414  Ang. Really at:  29.0833 12.5936 -0.6992
+   65 Si                    2.3414  Ang. Really at:  21.8125 12.5936 -0.6992
+   93 Si                    2.3414  Ang. Really at:  25.4479 18.8903 -0.6992
+   71 H                     3.1598  Ang. Really at:  29.0833 12.5936 -3.5472
+   67 H                     3.1598  Ang. Really at:  21.8125 12.5936 -3.5472
+   95 H                     3.1598  Ang. Really at:  25.4479 18.8903 -3.5472
+Neighbors of:    67 H at:  21.8125 12.5936 -3.5472
+   65 Si                    1.5071  Ang. Really at:  21.8125 12.5936 -0.6992
+   62 Si                    3.1598  Ang. Really at:  18.1771 14.6924  0.6993
+   66 Si                    3.1598  Ang. Really at:  25.4479 14.6925  0.6993
+   38 Si                    3.1598  Ang. Really at:  21.8125  8.3957  0.6993
+Neighbors of:    68 H at:  25.4479 14.6925  3.5473
+   66 Si                    1.5071  Ang. Really at:  25.4479 14.6925  0.6993
+   69 Si                    3.1598  Ang. Really at:  29.0833 12.5936 -0.6992
+   65 Si                    3.1598  Ang. Really at:  21.8125 12.5936 -0.6992
+   93 Si                    3.1598  Ang. Really at:  25.4479 18.8903 -0.6992
+Neighbors of:    69 Si at:  29.0833 12.5936 -0.6992
+   71 H                     1.5071  Ang. Really at:  29.0833 12.5936 -3.5472
+   66 Si                    2.3414  Ang. Really at:  25.4479 14.6925  0.6993
+   70 Si                    2.3414  Ang. Really at:  32.7187 14.6925  0.6994
+   42 Si                    2.3414  Ang. Really at:  29.0833  8.3957  0.6994
+   68 H                     3.1598  Ang. Really at:  25.4479 14.6925  3.5473
+   72 H                     3.1598  Ang. Really at:  32.7187 14.6925  3.5473
+   44 H                     3.1598  Ang. Really at:  29.0833  8.3957  3.5473
+Neighbors of:    70 Si at:  32.7187 14.6925  0.6994
+   72 H                     1.5071  Ang. Really at:  32.7187 14.6925  3.5473
+   49 Si                    2.3414  Ang. Really at:  36.3541 12.5936 -0.6992
+   69 Si                    2.3414  Ang. Really at:  29.0833 12.5936 -0.6992
+   73 Si                    2.3414  Ang. Really at:  32.7187 18.8903 -0.6992
+   51 H                     3.1598  Ang. Really at:  36.3541 12.5936 -3.5471
+   71 H                     3.1598  Ang. Really at:  29.0833 12.5936 -3.5472
+   75 H                     3.1598  Ang. Really at:  32.7187 18.8903 -3.5472
+Neighbors of:    71 H at:  29.0833 12.5936 -3.5472
+   69 Si                    1.5071  Ang. Really at:  29.0833 12.5936 -0.6992
+   66 Si                    3.1598  Ang. Really at:  25.4479 14.6925  0.6993
+   70 Si                    3.1598  Ang. Really at:  32.7187 14.6925  0.6994
+   42 Si                    3.1598  Ang. Really at:  29.0833  8.3957  0.6994
+Neighbors of:    72 H at:  32.7187 14.6925  3.5473
+   70 Si                    1.5071  Ang. Really at:  32.7187 14.6925  0.6994
+   49 Si                    3.1598  Ang. Really at:  36.3541 12.5936 -0.6992
+   69 Si                    3.1598  Ang. Really at:  29.0833 12.5936 -0.6992
+   73 Si                    3.1598  Ang. Really at:  32.7187 18.8903 -0.6992
+Neighbors of:    73 Si at: -10.9062 18.8902 -0.6993
+   75 H                     1.5071  Ang. Really at: -10.9062 18.8902 -3.5473
+   94 Si                    2.3414  Ang. Really at: -14.5416 20.9891  0.6992
+   74 Si                    2.3414  Ang. Really at:  -7.2707 20.9891  0.6992
+   70 Si                    2.3414  Ang. Really at: -10.9062 14.6923  0.6992
+   96 H                     3.1598  Ang. Really at: -14.5416 20.9891  3.5471
+   76 H                     3.1598  Ang. Really at:  -7.2707 20.9891  3.5472
+   72 H                     3.1598  Ang. Really at: -10.9062 14.6923  3.5472
+Neighbors of:    74 Si at:  -7.2707 20.9891  0.6992
+   76 H                     1.5071  Ang. Really at:  -7.2707 20.9891  3.5472
+   77 Si                    2.3414  Ang. Really at:  -3.6354 18.8902 -0.6993
+   73 Si                    2.3414  Ang. Really at: -10.9062 18.8902 -0.6993
+  101 Si                    2.3414  Ang. Really at:  -7.2707 25.1869 -0.6993
+   79 H                     3.1598  Ang. Really at:  -3.6354 18.8902 -3.5473
+   75 H                     3.1598  Ang. Really at: -10.9062 18.8902 -3.5473
+  103 H                     3.1598  Ang. Really at:  -7.2707 25.1869 -3.5473
+Neighbors of:    75 H at: -10.9062 18.8902 -3.5473
+   73 Si                    1.5071  Ang. Really at: -10.9062 18.8902 -0.6993
+   94 Si                    3.1598  Ang. Really at: -14.5416 20.9891  0.6992
+   74 Si                    3.1598  Ang. Really at:  -7.2707 20.9891  0.6992
+   70 Si                    3.1598  Ang. Really at: -10.9062 14.6923  0.6992
+Neighbors of:    76 H at:  -7.2707 20.9891  3.5472
+   74 Si                    1.5071  Ang. Really at:  -7.2707 20.9891  0.6992
+   77 Si                    3.1598  Ang. Really at:  -3.6354 18.8902 -0.6993
+   73 Si                    3.1598  Ang. Really at: -10.9062 18.8902 -0.6993
+  101 Si                    3.1598  Ang. Really at:  -7.2707 25.1869 -0.6993
+Neighbors of:    77 Si at:  -3.6354 18.8902 -0.6993
+   79 H                     1.5071  Ang. Really at:  -3.6354 18.8902 -3.5473
+   74 Si                    2.3414  Ang. Really at:  -7.2707 20.9891  0.6992
+   78 Si                    2.3414  Ang. Really at:   0.0001 20.9891  0.6992
+   50 Si                    2.3414  Ang. Really at:  -3.6353 14.6924  0.6992
+   76 H                     3.1598  Ang. Really at:  -7.2707 20.9891  3.5472
+   80 H                     3.1598  Ang. Really at:   0.0001 20.9891  3.5472
+   52 H                     3.1598  Ang. Really at:  -3.6353 14.6924  3.5472
+Neighbors of:    78 Si at:   0.0001 20.9891  0.6992
+   80 H                     1.5071  Ang. Really at:   0.0001 20.9891  3.5472
+   81 Si                    2.3414  Ang. Really at:   3.6355 18.8902 -0.6993
+   77 Si                    2.3414  Ang. Really at:  -3.6354 18.8902 -0.6993
+  105 Si                    2.3414  Ang. Really at:   0.0001 25.1870 -0.6993
+   83 H                     3.1598  Ang. Really at:   3.6355 18.8902 -3.5472
+   79 H                     3.1598  Ang. Really at:  -3.6354 18.8902 -3.5473
+  107 H                     3.1598  Ang. Really at:   0.0001 25.1870 -3.5473
+Neighbors of:    79 H at:  -3.6354 18.8902 -3.5473
+   77 Si                    1.5071  Ang. Really at:  -3.6354 18.8902 -0.6993
+   74 Si                    3.1598  Ang. Really at:  -7.2707 20.9891  0.6992
+   78 Si                    3.1598  Ang. Really at:   0.0001 20.9891  0.6992
+   50 Si                    3.1598  Ang. Really at:  -3.6353 14.6924  0.6992
+Neighbors of:    80 H at:   0.0001 20.9891  3.5472
+   78 Si                    1.5071  Ang. Really at:   0.0001 20.9891  0.6992
+   81 Si                    3.1598  Ang. Really at:   3.6355 18.8902 -0.6993
+   77 Si                    3.1598  Ang. Really at:  -3.6354 18.8902 -0.6993
+  105 Si                    3.1598  Ang. Really at:   0.0001 25.1870 -0.6993
+Neighbors of:    81 Si at:   3.6355 18.8902 -0.6993
+   83 H                     1.5071  Ang. Really at:   3.6355 18.8902 -3.5472
+   78 Si                    2.3414  Ang. Really at:   0.0001 20.9891  0.6992
+   82 Si                    2.3414  Ang. Really at:   7.2709 20.9891  0.6993
+   54 Si                    2.3414  Ang. Really at:   3.6355 14.6924  0.6993
+   80 H                     3.1598  Ang. Really at:   0.0001 20.9891  3.5472
+   84 H                     3.1598  Ang. Really at:   7.2709 20.9891  3.5472
+   56 H                     3.1598  Ang. Really at:   3.6355 14.6924  3.5472
+Neighbors of:    82 Si at:   7.2709 20.9891  0.6993
+   84 H                     1.5071  Ang. Really at:   7.2709 20.9891  3.5472
+   85 Si                    2.3414  Ang. Really at:  10.9063 18.8903 -0.6993
+   81 Si                    2.3414  Ang. Really at:   3.6355 18.8902 -0.6993
+  109 Si                    2.3414  Ang. Really at:   7.2709 25.1870 -0.6993
+   87 H                     3.1598  Ang. Really at:  10.9063 18.8903 -3.5472
+   83 H                     3.1598  Ang. Really at:   3.6355 18.8902 -3.5472
+  111 H                     3.1598  Ang. Really at:   7.2709 25.1870 -3.5472
+Neighbors of:    83 H at:   3.6355 18.8902 -3.5472
+   81 Si                    1.5071  Ang. Really at:   3.6355 18.8902 -0.6993
+   78 Si                    3.1598  Ang. Really at:   0.0001 20.9891  0.6992
+   82 Si                    3.1598  Ang. Really at:   7.2709 20.9891  0.6993
+   54 Si                    3.1598  Ang. Really at:   3.6355 14.6924  0.6993
+Neighbors of:    84 H at:   7.2709 20.9891  3.5472
+   82 Si                    1.5071  Ang. Really at:   7.2709 20.9891  0.6993
+   85 Si                    3.1598  Ang. Really at:  10.9063 18.8903 -0.6993
+   81 Si                    3.1598  Ang. Really at:   3.6355 18.8902 -0.6993
+  109 Si                    3.1598  Ang. Really at:   7.2709 25.1870 -0.6993
+Neighbors of:    85 Si at:  10.9063 18.8903 -0.6993
+   87 H                     1.5071  Ang. Really at:  10.9063 18.8903 -3.5472
+   82 Si                    2.3414  Ang. Really at:   7.2709 20.9891  0.6993
+   86 Si                    2.3414  Ang. Really at:  14.5417 20.9892  0.6993
+   58 Si                    2.3414  Ang. Really at:  10.9063 14.6924  0.6993
+   84 H                     3.1598  Ang. Really at:   7.2709 20.9891  3.5472
+   88 H                     3.1598  Ang. Really at:  14.5417 20.9892  3.5472
+   60 H                     3.1598  Ang. Really at:  10.9063 14.6924  3.5472
+Neighbors of:    86 Si at:  14.5417 20.9892  0.6993
+   88 H                     1.5071  Ang. Really at:  14.5417 20.9892  3.5472
+   89 Si                    2.3414  Ang. Really at:  18.1771 18.8903 -0.6993
+   85 Si                    2.3414  Ang. Really at:  10.9063 18.8903 -0.6993
+  113 Si                    2.3414  Ang. Really at:  14.5417 25.1870 -0.6993
+   91 H                     3.1598  Ang. Really at:  18.1771 18.8903 -3.5472
+   87 H                     3.1598  Ang. Really at:  10.9063 18.8903 -3.5472
+  115 H                     3.1598  Ang. Really at:  14.5417 25.1870 -3.5472
+Neighbors of:    87 H at:  10.9063 18.8903 -3.5472
+   85 Si                    1.5071  Ang. Really at:  10.9063 18.8903 -0.6993
+   82 Si                    3.1598  Ang. Really at:   7.2709 20.9891  0.6993
+   86 Si                    3.1598  Ang. Really at:  14.5417 20.9892  0.6993
+   58 Si                    3.1598  Ang. Really at:  10.9063 14.6924  0.6993
+Neighbors of:    88 H at:  14.5417 20.9892  3.5472
+   86 Si                    1.5071  Ang. Really at:  14.5417 20.9892  0.6993
+   89 Si                    3.1598  Ang. Really at:  18.1771 18.8903 -0.6993
+   85 Si                    3.1598  Ang. Really at:  10.9063 18.8903 -0.6993
+  113 Si                    3.1598  Ang. Really at:  14.5417 25.1870 -0.6993
+Neighbors of:    89 Si at:  18.1771 18.8903 -0.6993
+   91 H                     1.5071  Ang. Really at:  18.1771 18.8903 -3.5472
+   86 Si                    2.3414  Ang. Really at:  14.5417 20.9892  0.6993
+   90 Si                    2.3414  Ang. Really at:  21.8125 20.9892  0.6993
+   62 Si                    2.3414  Ang. Really at:  18.1771 14.6924  0.6993
+   88 H                     3.1598  Ang. Really at:  14.5417 20.9892  3.5472
+   92 H                     3.1598  Ang. Really at:  21.8125 20.9892  3.5472
+   64 H                     3.1598  Ang. Really at:  18.1771 14.6924  3.5472
+Neighbors of:    90 Si at:  21.8125 20.9892  0.6993
+   92 H                     1.5071  Ang. Really at:  21.8125 20.9892  3.5472
+   93 Si                    2.3414  Ang. Really at:  25.4479 18.8903 -0.6992
+   89 Si                    2.3414  Ang. Really at:  18.1771 18.8903 -0.6993
+  117 Si                    2.3414  Ang. Really at:  21.8125 25.1870 -0.6993
+   95 H                     3.1598  Ang. Really at:  25.4479 18.8903 -3.5472
+   91 H                     3.1598  Ang. Really at:  18.1771 18.8903 -3.5472
+  119 H                     3.1598  Ang. Really at:  21.8125 25.1870 -3.5472
+Neighbors of:    91 H at:  18.1771 18.8903 -3.5472
+   89 Si                    1.5071  Ang. Really at:  18.1771 18.8903 -0.6993
+   86 Si                    3.1598  Ang. Really at:  14.5417 20.9892  0.6993
+   90 Si                    3.1598  Ang. Really at:  21.8125 20.9892  0.6993
+   62 Si                    3.1598  Ang. Really at:  18.1771 14.6924  0.6993
+Neighbors of:    92 H at:  21.8125 20.9892  3.5472
+   90 Si                    1.5071  Ang. Really at:  21.8125 20.9892  0.6993
+   93 Si                    3.1598  Ang. Really at:  25.4479 18.8903 -0.6992
+   89 Si                    3.1598  Ang. Really at:  18.1771 18.8903 -0.6993
+  117 Si                    3.1598  Ang. Really at:  21.8125 25.1870 -0.6993
+Neighbors of:    93 Si at:  25.4479 18.8903 -0.6992
+   95 H                     1.5071  Ang. Really at:  25.4479 18.8903 -3.5472
+   90 Si                    2.3414  Ang. Really at:  21.8125 20.9892  0.6993
+   94 Si                    2.3414  Ang. Really at:  29.0834 20.9892  0.6993
+   66 Si                    2.3414  Ang. Really at:  25.4479 14.6925  0.6993
+   92 H                     3.1598  Ang. Really at:  21.8125 20.9892  3.5472
+   96 H                     3.1598  Ang. Really at:  29.0834 20.9892  3.5473
+   68 H                     3.1598  Ang. Really at:  25.4479 14.6925  3.5473
+Neighbors of:    94 Si at:  29.0834 20.9892  0.6993
+   96 H                     1.5071  Ang. Really at:  29.0834 20.9892  3.5473
+   73 Si                    2.3414  Ang. Really at:  32.7187 18.8903 -0.6992
+   93 Si                    2.3414  Ang. Really at:  25.4479 18.8903 -0.6992
+   97 Si                    2.3414  Ang. Really at:  29.0833 25.1871 -0.6992
+   75 H                     3.1598  Ang. Really at:  32.7187 18.8903 -3.5472
+   95 H                     3.1598  Ang. Really at:  25.4479 18.8903 -3.5472
+   99 H                     3.1598  Ang. Really at:  29.0833 25.1871 -3.5472
+Neighbors of:    95 H at:  25.4479 18.8903 -3.5472
+   93 Si                    1.5071  Ang. Really at:  25.4479 18.8903 -0.6992
+   90 Si                    3.1598  Ang. Really at:  21.8125 20.9892  0.6993
+   94 Si                    3.1598  Ang. Really at:  29.0834 20.9892  0.6993
+   66 Si                    3.1598  Ang. Really at:  25.4479 14.6925  0.6993
+Neighbors of:    96 H at:  29.0834 20.9892  3.5473
+   94 Si                    1.5071  Ang. Really at:  29.0834 20.9892  0.6993
+   73 Si                    3.1598  Ang. Really at:  32.7187 18.8903 -0.6992
+   93 Si                    3.1598  Ang. Really at:  25.4479 18.8903 -0.6992
+   97 Si                    3.1598  Ang. Really at:  29.0833 25.1871 -0.6992
+Neighbors of:    97 Si at: -14.5416 25.1869 -0.6994
+   99 H                     1.5071  Ang. Really at: -14.5416 25.1869 -3.5473
+  118 Si                    2.3414  Ang. Really at: -18.1769 27.2858  0.6992
+   98 Si                    2.3414  Ang. Really at: -10.9061 27.2858  0.6992
+   94 Si                    2.3414  Ang. Really at: -14.5416 20.9891  0.6992
+  120 H                     3.1598  Ang. Really at: -18.1769 27.2858  3.5471
+  100 H                     3.1598  Ang. Really at: -10.9061 27.2858  3.5471
+   96 H                     3.1598  Ang. Really at: -14.5416 20.9891  3.5471
+Neighbors of:    98 Si at: -10.9061 27.2858  0.6992
+  100 H                     1.5071  Ang. Really at: -10.9061 27.2858  3.5471
+  101 Si                    2.3414  Ang. Really at:  -7.2707 25.1869 -0.6993
+   97 Si                    2.3414  Ang. Really at: -14.5416 25.1869 -0.6994
+  125 Si                    2.3414  Ang. Really at: -10.9061 31.4837 -0.6994
+  103 H                     3.1598  Ang. Really at:  -7.2707 25.1869 -3.5473
+   99 H                     3.1598  Ang. Really at: -14.5416 25.1869 -3.5473
+  127 H                     3.1598  Ang. Really at: -10.9061 31.4837 -3.5473
+Neighbors of:    99 H at: -14.5416 25.1869 -3.5473
+   97 Si                    1.5071  Ang. Really at: -14.5416 25.1869 -0.6994
+  118 Si                    3.1598  Ang. Really at: -18.1769 27.2858  0.6992
+   98 Si                    3.1598  Ang. Really at: -10.9061 27.2858  0.6992
+   94 Si                    3.1598  Ang. Really at: -14.5416 20.9891  0.6992
+Neighbors of:   100 H at: -10.9061 27.2858  3.5471
+   98 Si                    1.5071  Ang. Really at: -10.9061 27.2858  0.6992
+  101 Si                    3.1598  Ang. Really at:  -7.2707 25.1869 -0.6993
+   97 Si                    3.1598  Ang. Really at: -14.5416 25.1869 -0.6994
+  125 Si                    3.1598  Ang. Really at: -10.9061 31.4837 -0.6994
+Neighbors of:   101 Si at:  -7.2707 25.1869 -0.6993
+  103 H                     1.5071  Ang. Really at:  -7.2707 25.1869 -3.5473
+   98 Si                    2.3414  Ang. Really at: -10.9061 27.2858  0.6992
+  102 Si                    2.3414  Ang. Really at:  -3.6353 27.2858  0.6992
+   74 Si                    2.3414  Ang. Really at:  -7.2707 20.9891  0.6992
+  100 H                     3.1598  Ang. Really at: -10.9061 27.2858  3.5471
+  104 H                     3.1598  Ang. Really at:  -3.6353 27.2858  3.5472
+   76 H                     3.1598  Ang. Really at:  -7.2707 20.9891  3.5472
+Neighbors of:   102 Si at:  -3.6353 27.2858  0.6992
+  104 H                     1.5071  Ang. Really at:  -3.6353 27.2858  3.5472
+  105 Si                    2.3414  Ang. Really at:   0.0001 25.1870 -0.6993
+  101 Si                    2.3414  Ang. Really at:  -7.2707 25.1869 -0.6993
+  129 Si                    2.3414  Ang. Really at:  -3.6353 31.4837 -0.6993
+  107 H                     3.1598  Ang. Really at:   0.0001 25.1870 -3.5473
+  103 H                     3.1598  Ang. Really at:  -7.2707 25.1869 -3.5473
+  131 H                     3.1598  Ang. Really at:  -3.6353 31.4837 -3.5473
+Neighbors of:   103 H at:  -7.2707 25.1869 -3.5473
+  101 Si                    1.5071  Ang. Really at:  -7.2707 25.1869 -0.6993
+   98 Si                    3.1598  Ang. Really at: -10.9061 27.2858  0.6992
+  102 Si                    3.1598  Ang. Really at:  -3.6353 27.2858  0.6992
+   74 Si                    3.1598  Ang. Really at:  -7.2707 20.9891  0.6992
+Neighbors of:   104 H at:  -3.6353 27.2858  3.5472
+  102 Si                    1.5071  Ang. Really at:  -3.6353 27.2858  0.6992
+  105 Si                    3.1598  Ang. Really at:   0.0001 25.1870 -0.6993
+  101 Si                    3.1598  Ang. Really at:  -7.2707 25.1869 -0.6993
+  129 Si                    3.1598  Ang. Really at:  -3.6353 31.4837 -0.6993
+Neighbors of:   105 Si at:   0.0001 25.1870 -0.6993
+  107 H                     1.5071  Ang. Really at:   0.0001 25.1870 -3.5473
+  102 Si                    2.3414  Ang. Really at:  -3.6353 27.2858  0.6992
+  106 Si                    2.3414  Ang. Really at:   3.6355 27.2859  0.6992
+   78 Si                    2.3414  Ang. Really at:   0.0001 20.9891  0.6992
+  104 H                     3.1598  Ang. Really at:  -3.6353 27.2858  3.5472
+  108 H                     3.1598  Ang. Really at:   3.6355 27.2859  3.5472
+   80 H                     3.1598  Ang. Really at:   0.0001 20.9891  3.5472
+Neighbors of:   106 Si at:   3.6355 27.2859  0.6992
+  108 H                     1.5071  Ang. Really at:   3.6355 27.2859  3.5472
+  109 Si                    2.3414  Ang. Really at:   7.2709 25.1870 -0.6993
+  105 Si                    2.3414  Ang. Really at:   0.0001 25.1870 -0.6993
+  133 Si                    2.3414  Ang. Really at:   3.6355 31.4837 -0.6993
+  111 H                     3.1598  Ang. Really at:   7.2709 25.1870 -3.5472
+  107 H                     3.1598  Ang. Really at:   0.0001 25.1870 -3.5473
+  135 H                     3.1598  Ang. Really at:   3.6355 31.4837 -3.5473
+Neighbors of:   107 H at:   0.0001 25.1870 -3.5473
+  105 Si                    1.5071  Ang. Really at:   0.0001 25.1870 -0.6993
+  102 Si                    3.1598  Ang. Really at:  -3.6353 27.2858  0.6992
+  106 Si                    3.1598  Ang. Really at:   3.6355 27.2859  0.6992
+   78 Si                    3.1598  Ang. Really at:   0.0001 20.9891  0.6992
+Neighbors of:   108 H at:   3.6355 27.2859  3.5472
+  106 Si                    1.5071  Ang. Really at:   3.6355 27.2859  0.6992
+  109 Si                    3.1598  Ang. Really at:   7.2709 25.1870 -0.6993
+  105 Si                    3.1598  Ang. Really at:   0.0001 25.1870 -0.6993
+  133 Si                    3.1598  Ang. Really at:   3.6355 31.4837 -0.6993
+Neighbors of:   109 Si at:   7.2709 25.1870 -0.6993
+  111 H                     1.5071  Ang. Really at:   7.2709 25.1870 -3.5472
+  106 Si                    2.3414  Ang. Really at:   3.6355 27.2859  0.6992
+  110 Si                    2.3414  Ang. Really at:  10.9063 27.2859  0.6993
+   82 Si                    2.3414  Ang. Really at:   7.2709 20.9891  0.6993
+  108 H                     3.1598  Ang. Really at:   3.6355 27.2859  3.5472
+  112 H                     3.1598  Ang. Really at:  10.9063 27.2859  3.5472
+   84 H                     3.1598  Ang. Really at:   7.2709 20.9891  3.5472
+Neighbors of:   110 Si at:  10.9063 27.2859  0.6993
+  112 H                     1.5071  Ang. Really at:  10.9063 27.2859  3.5472
+  113 Si                    2.3414  Ang. Really at:  14.5417 25.1870 -0.6993
+  109 Si                    2.3414  Ang. Really at:   7.2709 25.1870 -0.6993
+  137 Si                    2.3414  Ang. Really at:  10.9063 31.4837 -0.6993
+  115 H                     3.1598  Ang. Really at:  14.5417 25.1870 -3.5472
+  111 H                     3.1598  Ang. Really at:   7.2709 25.1870 -3.5472
+  139 H                     3.1598  Ang. Really at:  10.9063 31.4837 -3.5472
+Neighbors of:   111 H at:   7.2709 25.1870 -3.5472
+  109 Si                    1.5071  Ang. Really at:   7.2709 25.1870 -0.6993
+  106 Si                    3.1598  Ang. Really at:   3.6355 27.2859  0.6992
+  110 Si                    3.1598  Ang. Really at:  10.9063 27.2859  0.6993
+   82 Si                    3.1598  Ang. Really at:   7.2709 20.9891  0.6993
+Neighbors of:   112 H at:  10.9063 27.2859  3.5472
+  110 Si                    1.5071  Ang. Really at:  10.9063 27.2859  0.6993
+  113 Si                    3.1598  Ang. Really at:  14.5417 25.1870 -0.6993
+  109 Si                    3.1598  Ang. Really at:   7.2709 25.1870 -0.6993
+  137 Si                    3.1598  Ang. Really at:  10.9063 31.4837 -0.6993
+Neighbors of:   113 Si at:  14.5417 25.1870 -0.6993
+  115 H                     1.5071  Ang. Really at:  14.5417 25.1870 -3.5472
+  110 Si                    2.3414  Ang. Really at:  10.9063 27.2859  0.6993
+  114 Si                    2.3414  Ang. Really at:  18.1771 27.2859  0.6993
+   86 Si                    2.3414  Ang. Really at:  14.5417 20.9892  0.6993
+  112 H                     3.1598  Ang. Really at:  10.9063 27.2859  3.5472
+  116 H                     3.1598  Ang. Really at:  18.1771 27.2859  3.5472
+   88 H                     3.1598  Ang. Really at:  14.5417 20.9892  3.5472
+Neighbors of:   114 Si at:  18.1771 27.2859  0.6993
+  116 H                     1.5071  Ang. Really at:  18.1771 27.2859  3.5472
+  117 Si                    2.3414  Ang. Really at:  21.8125 25.1870 -0.6993
+  113 Si                    2.3414  Ang. Really at:  14.5417 25.1870 -0.6993
+  141 Si                    2.3414  Ang. Really at:  18.1771 31.4838 -0.6993
+  119 H                     3.1598  Ang. Really at:  21.8125 25.1870 -3.5472
+  115 H                     3.1598  Ang. Really at:  14.5417 25.1870 -3.5472
+  143 H                     3.1598  Ang. Really at:  18.1771 31.4838 -3.5472
+Neighbors of:   115 H at:  14.5417 25.1870 -3.5472
+  113 Si                    1.5071  Ang. Really at:  14.5417 25.1870 -0.6993
+  110 Si                    3.1598  Ang. Really at:  10.9063 27.2859  0.6993
+  114 Si                    3.1598  Ang. Really at:  18.1771 27.2859  0.6993
+   86 Si                    3.1598  Ang. Really at:  14.5417 20.9892  0.6993
+Neighbors of:   116 H at:  18.1771 27.2859  3.5472
+  114 Si                    1.5071  Ang. Really at:  18.1771 27.2859  0.6993
+  117 Si                    3.1598  Ang. Really at:  21.8125 25.1870 -0.6993
+  113 Si                    3.1598  Ang. Really at:  14.5417 25.1870 -0.6993
+  141 Si                    3.1598  Ang. Really at:  18.1771 31.4838 -0.6993
+Neighbors of:   117 Si at:  21.8125 25.1870 -0.6993
+  119 H                     1.5071  Ang. Really at:  21.8125 25.1870 -3.5472
+  114 Si                    2.3414  Ang. Really at:  18.1771 27.2859  0.6993
+  118 Si                    2.3414  Ang. Really at:  25.4480 27.2859  0.6993
+   90 Si                    2.3414  Ang. Really at:  21.8125 20.9892  0.6993
+  116 H                     3.1598  Ang. Really at:  18.1771 27.2859  3.5472
+  120 H                     3.1598  Ang. Really at:  25.4480 27.2859  3.5472
+   92 H                     3.1598  Ang. Really at:  21.8125 20.9892  3.5472
+Neighbors of:   118 Si at:  25.4480 27.2859  0.6993
+  120 H                     1.5071  Ang. Really at:  25.4480 27.2859  3.5472
+   97 Si                    2.3414  Ang. Really at:  29.0833 25.1871 -0.6992
+  117 Si                    2.3414  Ang. Really at:  21.8125 25.1870 -0.6993
+  121 Si                    2.3414  Ang. Really at:  25.4480 31.4838 -0.6993
+   99 H                     3.1598  Ang. Really at:  29.0833 25.1871 -3.5472
+  119 H                     3.1598  Ang. Really at:  21.8125 25.1870 -3.5472
+  123 H                     3.1598  Ang. Really at:  25.4480 31.4838 -3.5472
+Neighbors of:   119 H at:  21.8125 25.1870 -3.5472
+  117 Si                    1.5071  Ang. Really at:  21.8125 25.1870 -0.6993
+  114 Si                    3.1598  Ang. Really at:  18.1771 27.2859  0.6993
+  118 Si                    3.1598  Ang. Really at:  25.4480 27.2859  0.6993
+   90 Si                    3.1598  Ang. Really at:  21.8125 20.9892  0.6993
+Neighbors of:   120 H at:  25.4480 27.2859  3.5472
+  118 Si                    1.5071  Ang. Really at:  25.4480 27.2859  0.6993
+   97 Si                    3.1598  Ang. Really at:  29.0833 25.1871 -0.6992
+  117 Si                    3.1598  Ang. Really at:  21.8125 25.1870 -0.6993
+  121 Si                    3.1598  Ang. Really at:  25.4480 31.4838 -0.6993
+Neighbors of:   121 Si at: -18.1769 31.4836 -0.6994
+  123 H                     1.5071  Ang. Really at: -18.1769 31.4836 -3.5473
+  142 Si                    2.3414  Ang. Really at: -21.8123 33.5825  0.6992
+  122 Si                    2.3414  Ang. Really at: -14.5415 33.5825  0.6992
+  118 Si                    2.3414  Ang. Really at: -18.1769 27.2858  0.6992
+  144 H                     3.1598  Ang. Really at: -21.8123 33.5825  3.5471
+  124 H                     3.1598  Ang. Really at: -14.5415 33.5825  3.5471
+  120 H                     3.1598  Ang. Really at: -18.1769 27.2858  3.5471
+Neighbors of:   122 Si at: -14.5415 33.5825  0.6992
+  124 H                     1.5071  Ang. Really at: -14.5415 33.5825  3.5471
+  125 Si                    2.3414  Ang. Really at: -10.9061 31.4837 -0.6994
+  121 Si                    2.3414  Ang. Really at: -18.1769 31.4836 -0.6994
+    5 Si                    2.3414  Ang. Really at: -14.5415 37.7804 -0.6994
+  127 H                     3.1598  Ang. Really at: -10.9061 31.4837 -3.5473
+  123 H                     3.1598  Ang. Really at: -18.1769 31.4836 -3.5473
+    7 H                     3.1598  Ang. Really at: -14.5415 37.7804 -3.5473
+Neighbors of:   123 H at: -18.1769 31.4836 -3.5473
+  121 Si                    1.5071  Ang. Really at: -18.1769 31.4836 -0.6994
+  142 Si                    3.1598  Ang. Really at: -21.8123 33.5825  0.6992
+  122 Si                    3.1598  Ang. Really at: -14.5415 33.5825  0.6992
+  118 Si                    3.1598  Ang. Really at: -18.1769 27.2858  0.6992
+Neighbors of:   124 H at: -14.5415 33.5825  3.5471
+  122 Si                    1.5071  Ang. Really at: -14.5415 33.5825  0.6992
+  125 Si                    3.1598  Ang. Really at: -10.9061 31.4837 -0.6994
+  121 Si                    3.1598  Ang. Really at: -18.1769 31.4836 -0.6994
+    5 Si                    3.1598  Ang. Really at: -14.5415 37.7804 -0.6994
+Neighbors of:   125 Si at: -10.9061 31.4837 -0.6994
+  127 H                     1.5071  Ang. Really at: -10.9061 31.4837 -3.5473
+  122 Si                    2.3414  Ang. Really at: -14.5415 33.5825  0.6992
+  126 Si                    2.3414  Ang. Really at:  -7.2707 33.5826  0.6992
+   98 Si                    2.3414  Ang. Really at: -10.9061 27.2858  0.6992
+  124 H                     3.1598  Ang. Really at: -14.5415 33.5825  3.5471
+  128 H                     3.1598  Ang. Really at:  -7.2707 33.5826  3.5471
+  100 H                     3.1598  Ang. Really at: -10.9061 27.2858  3.5471
+Neighbors of:   126 Si at:  -7.2707 33.5826  0.6992
+  128 H                     1.5071  Ang. Really at:  -7.2707 33.5826  3.5471
+  129 Si                    2.3414  Ang. Really at:  -3.6353 31.4837 -0.6993
+  125 Si                    2.3414  Ang. Really at: -10.9061 31.4837 -0.6994
+    9 Si                    2.3414  Ang. Really at:  -7.2707 37.7804 -0.6994
+  131 H                     3.1598  Ang. Really at:  -3.6353 31.4837 -3.5473
+  127 H                     3.1598  Ang. Really at: -10.9061 31.4837 -3.5473
+   11 H                     3.1598  Ang. Really at:  -7.2707 37.7804 -3.5473
+Neighbors of:   127 H at: -10.9061 31.4837 -3.5473
+  125 Si                    1.5071  Ang. Really at: -10.9061 31.4837 -0.6994
+  122 Si                    3.1598  Ang. Really at: -14.5415 33.5825  0.6992
+  126 Si                    3.1598  Ang. Really at:  -7.2707 33.5826  0.6992
+   98 Si                    3.1598  Ang. Really at: -10.9061 27.2858  0.6992
+Neighbors of:   128 H at:  -7.2707 33.5826  3.5471
+  126 Si                    1.5071  Ang. Really at:  -7.2707 33.5826  0.6992
+  129 Si                    3.1598  Ang. Really at:  -3.6353 31.4837 -0.6993
+  125 Si                    3.1598  Ang. Really at: -10.9061 31.4837 -0.6994
+    9 Si                    3.1598  Ang. Really at:  -7.2707 37.7804 -0.6994
+Neighbors of:   129 Si at:  -3.6353 31.4837 -0.6993
+  131 H                     1.5071  Ang. Really at:  -3.6353 31.4837 -3.5473
+  126 Si                    2.3414  Ang. Really at:  -7.2707 33.5826  0.6992
+  130 Si                    2.3414  Ang. Really at:   0.0001 33.5826  0.6992
+  102 Si                    2.3414  Ang. Really at:  -3.6353 27.2858  0.6992
+  128 H                     3.1598  Ang. Really at:  -7.2707 33.5826  3.5471
+  132 H                     3.1598  Ang. Really at:   0.0001 33.5826  3.5472
+  104 H                     3.1598  Ang. Really at:  -3.6353 27.2858  3.5472
+Neighbors of:   130 Si at:   0.0001 33.5826  0.6992
+  132 H                     1.5071  Ang. Really at:   0.0001 33.5826  3.5472
+  133 Si                    2.3414  Ang. Really at:   3.6355 31.4837 -0.6993
+  129 Si                    2.3414  Ang. Really at:  -3.6353 31.4837 -0.6993
+   13 Si                    2.3414  Ang. Really at:   0.0001 37.7804 -0.6993
+  135 H                     3.1598  Ang. Really at:   3.6355 31.4837 -3.5473
+  131 H                     3.1598  Ang. Really at:  -3.6353 31.4837 -3.5473
+   15 H                     3.1598  Ang. Really at:   0.0001 37.7804 -3.5473
+Neighbors of:   131 H at:  -3.6353 31.4837 -3.5473
+  129 Si                    1.5071  Ang. Really at:  -3.6353 31.4837 -0.6993
+  126 Si                    3.1598  Ang. Really at:  -7.2707 33.5826  0.6992
+  130 Si                    3.1598  Ang. Really at:   0.0001 33.5826  0.6992
+  102 Si                    3.1598  Ang. Really at:  -3.6353 27.2858  0.6992
+Neighbors of:   132 H at:   0.0001 33.5826  3.5472
+  130 Si                    1.5071  Ang. Really at:   0.0001 33.5826  0.6992
+  133 Si                    3.1598  Ang. Really at:   3.6355 31.4837 -0.6993
+  129 Si                    3.1598  Ang. Really at:  -3.6353 31.4837 -0.6993
+   13 Si                    3.1598  Ang. Really at:   0.0001 37.7804 -0.6993
+Neighbors of:   133 Si at:   3.6355 31.4837 -0.6993
+  135 H                     1.5071  Ang. Really at:   3.6355 31.4837 -3.5473
+  130 Si                    2.3414  Ang. Really at:   0.0001 33.5826  0.6992
+  134 Si                    2.3414  Ang. Really at:   7.2709 33.5826  0.6992
+  106 Si                    2.3414  Ang. Really at:   3.6355 27.2859  0.6992
+  132 H                     3.1598  Ang. Really at:   0.0001 33.5826  3.5472
+  136 H                     3.1598  Ang. Really at:   7.2709 33.5826  3.5472
+  108 H                     3.1598  Ang. Really at:   3.6355 27.2859  3.5472
+Neighbors of:   134 Si at:   7.2709 33.5826  0.6992
+  136 H                     1.5071  Ang. Really at:   7.2709 33.5826  3.5472
+  137 Si                    2.3414  Ang. Really at:  10.9063 31.4837 -0.6993
+  133 Si                    2.3414  Ang. Really at:   3.6355 31.4837 -0.6993
+   17 Si                    2.3414  Ang. Really at:   7.2709 37.7805 -0.6993
+  139 H                     3.1598  Ang. Really at:  10.9063 31.4837 -3.5472
+  135 H                     3.1598  Ang. Really at:   3.6355 31.4837 -3.5473
+   19 H                     3.1598  Ang. Really at:   7.2709 37.7805 -3.5473
+Neighbors of:   135 H at:   3.6355 31.4837 -3.5473
+  133 Si                    1.5071  Ang. Really at:   3.6355 31.4837 -0.6993
+  130 Si                    3.1598  Ang. Really at:   0.0001 33.5826  0.6992
+  134 Si                    3.1598  Ang. Really at:   7.2709 33.5826  0.6992
+  106 Si                    3.1598  Ang. Really at:   3.6355 27.2859  0.6992
+Neighbors of:   136 H at:   7.2709 33.5826  3.5472
+  134 Si                    1.5071  Ang. Really at:   7.2709 33.5826  0.6992
+  137 Si                    3.1598  Ang. Really at:  10.9063 31.4837 -0.6993
+  133 Si                    3.1598  Ang. Really at:   3.6355 31.4837 -0.6993
+   17 Si                    3.1598  Ang. Really at:   7.2709 37.7805 -0.6993
+Neighbors of:   137 Si at:  10.9063 31.4837 -0.6993
+  139 H                     1.5071  Ang. Really at:  10.9063 31.4837 -3.5472
+  134 Si                    2.3414  Ang. Really at:   7.2709 33.5826  0.6992
+  138 Si                    2.3414  Ang. Really at:  14.5418 33.5826  0.6993
+  110 Si                    2.3414  Ang. Really at:  10.9063 27.2859  0.6993
+  136 H                     3.1598  Ang. Really at:   7.2709 33.5826  3.5472
+  140 H                     3.1598  Ang. Really at:  14.5418 33.5826  3.5472
+  112 H                     3.1598  Ang. Really at:  10.9063 27.2859  3.5472
+Neighbors of:   138 Si at:  14.5418 33.5826  0.6993
+  140 H                     1.5071  Ang. Really at:  14.5418 33.5826  3.5472
+  141 Si                    2.3414  Ang. Really at:  18.1771 31.4838 -0.6993
+  137 Si                    2.3414  Ang. Really at:  10.9063 31.4837 -0.6993
+   21 Si                    2.3414  Ang. Really at:  14.5418 37.7805 -0.6993
+  143 H                     3.1598  Ang. Really at:  18.1771 31.4838 -3.5472
+  139 H                     3.1598  Ang. Really at:  10.9063 31.4837 -3.5472
+   23 H                     3.1598  Ang. Really at:  14.5418 37.7805 -3.5472
+Neighbors of:   139 H at:  10.9063 31.4837 -3.5472
+  137 Si                    1.5071  Ang. Really at:  10.9063 31.4837 -0.6993
+  134 Si                    3.1598  Ang. Really at:   7.2709 33.5826  0.6992
+  138 Si                    3.1598  Ang. Really at:  14.5418 33.5826  0.6993
+  110 Si                    3.1598  Ang. Really at:  10.9063 27.2859  0.6993
+Neighbors of:   140 H at:  14.5418 33.5826  3.5472
+  138 Si                    1.5071  Ang. Really at:  14.5418 33.5826  0.6993
+  141 Si                    3.1598  Ang. Really at:  18.1771 31.4838 -0.6993
+  137 Si                    3.1598  Ang. Really at:  10.9063 31.4837 -0.6993
+   21 Si                    3.1598  Ang. Really at:  14.5418 37.7805 -0.6993
+Neighbors of:   141 Si at:  18.1771 31.4838 -0.6993
+  143 H                     1.5071  Ang. Really at:  18.1771 31.4838 -3.5472
+  138 Si                    2.3414  Ang. Really at:  14.5418 33.5826  0.6993
+  142 Si                    2.3414  Ang. Really at:  21.8126 33.5827  0.6993
+  114 Si                    2.3414  Ang. Really at:  18.1771 27.2859  0.6993
+  140 H                     3.1598  Ang. Really at:  14.5418 33.5826  3.5472
+  144 H                     3.1598  Ang. Really at:  21.8126 33.5827  3.5472
+  116 H                     3.1598  Ang. Really at:  18.1771 27.2859  3.5472
+Neighbors of:   142 Si at:  21.8126 33.5827  0.6993
+  144 H                     1.5071  Ang. Really at:  21.8126 33.5827  3.5472
+  121 Si                    2.3414  Ang. Really at:  25.4480 31.4838 -0.6993
+  141 Si                    2.3414  Ang. Really at:  18.1771 31.4838 -0.6993
+    1 Si                    2.3414  Ang. Really at:  21.8126 37.7805 -0.6993
+  123 H                     3.1598  Ang. Really at:  25.4480 31.4838 -3.5472
+  143 H                     3.1598  Ang. Really at:  18.1771 31.4838 -3.5472
+    3 H                     3.1598  Ang. Really at:  21.8126 37.7805 -3.5472
+Neighbors of:   143 H at:  18.1771 31.4838 -3.5472
+  141 Si                    1.5071  Ang. Really at:  18.1771 31.4838 -0.6993
+  138 Si                    3.1598  Ang. Really at:  14.5418 33.5826  0.6993
+  142 Si                    3.1598  Ang. Really at:  21.8126 33.5827  0.6993
+  114 Si                    3.1598  Ang. Really at:  18.1771 27.2859  0.6993
+Neighbors of:   144 H at:  21.8126 33.5827  3.5472
+  142 Si                    1.5071  Ang. Really at:  21.8126 33.5827  0.6993
+  121 Si                    3.1598  Ang. Really at:  25.4480 31.4838 -0.6993
+  141 Si                    3.1598  Ang. Really at:  18.1771 31.4838 -0.6993
+    1 Si                    3.1598  Ang. Really at:  21.8126 37.7805 -0.6993
